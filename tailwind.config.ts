@@ -23,6 +23,14 @@ export default {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
         },
+        travanah: {
+          teal: "hsl(var(--travanah-teal))",
+          "teal-light": "hsl(var(--travanah-teal-light))",
+          "teal-dark": "hsl(var(--travanah-teal-dark))",
+          navy: "hsl(var(--travanah-navy))",
+          "gray-light": "hsl(var(--travanah-gray-light))",
+          gray: "hsl(var(--travanah-gray))",
+        },
         secondary: {
           DEFAULT: "hsl(var(--secondary))",
           foreground: "hsl(var(--secondary-foreground))",
